@@ -20,6 +20,7 @@ A curated list of my learning resources.
 * [Set up Git](https://help.github.com/articles/set-up-git/)
 * [Pro Git Book](https://git-scm.com/book/en/v2)
 * [Submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+* [Authentication](https://stackoverflow.com/questions/6565357/git-push-requires-username-and-password)
 
 ### Markdown
 
